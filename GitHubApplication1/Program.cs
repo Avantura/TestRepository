@@ -11,6 +11,7 @@ namespace GitHubApplication1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, we start Avantura");
+            Console.WriteLine("Added from another pc");
             Console.ReadLine();
         }
     }
