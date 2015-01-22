@@ -13,6 +13,7 @@ namespace GitHubApplication1
             Console.WriteLine("Hello, we start Avantura");
             Console.WriteLine("Added from another pc");
             Console.WriteLine("Another commit");
+            Console.WriteLine("Added to master-branched");
             Console.ReadLine();
         }
     }
